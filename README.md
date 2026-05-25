@@ -5,7 +5,7 @@
 | Nội dung | Thông tin |
 |---------|----------|
 | **Họ và tên** | Lưu Thị Kim Liên |
-| **Mã sinh viên** | 1611827 |
+| **Mã sinh viên** | 16111827 |
 | **Lớp** | UDPM-16 |
 | **Ngành học** | Công nghệ Thông tin |
 | **Định hướng nghề nghiệp** | Fullstack Developer |
