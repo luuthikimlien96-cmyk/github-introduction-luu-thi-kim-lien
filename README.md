@@ -81,4 +81,11 @@ Trở thành **Fullstack Developer chuyên nghiệp**
 
 ---
 
+## 📬 Liên hệ
+
+- Email: luuthikimlien@example.com
+- GitHub: luuthikimlien96-cmyk
+- Định hướng: Fullstack Developer
+- Mục tiêu 2026: Hoàn thiện kỹ năng Frontend & Backend
+
 > *"Code is like humor. When you have to explain it, it’s bad."*
