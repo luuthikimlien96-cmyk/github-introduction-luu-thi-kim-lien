@@ -87,5 +87,14 @@ Trở thành **Fullstack Developer chuyên nghiệp**
 - GitHub: luuthikimlien96-cmyk
 - Định hướng: Fullstack Developer
 - Mục tiêu 2026: Hoàn thiện kỹ năng Frontend & Backend
+  
+---
+
+## 🔥 Công nghệ đang học
+
+![HTML5](https://img.shields.io/badge/HTML5-Learning-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Learning-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)
+![Python](https://img.shields.io/badge/Python-Learning-green)
 
 > *"Code is like humor. When you have to explain it, it’s bad."*
