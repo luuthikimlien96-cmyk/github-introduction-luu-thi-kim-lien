@@ -28,7 +28,7 @@
 |--------|-------|
 | HTML/CSS | Khá |
 | JavaScript | Khá |
-| Python | Trung bình |
+| Python | Khá |
 | Git cơ bản | Đang học |
 
 ---
